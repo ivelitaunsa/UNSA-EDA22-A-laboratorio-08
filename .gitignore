@@ -1,0 +1,9 @@
+# Remove vscode configuration
+.vscode/
+
+# Remove obsolete lib directory
+lib/
+
+# Remove binaries
+bin/
+.class
